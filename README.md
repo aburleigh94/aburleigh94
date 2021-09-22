@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Andrew Burleigh!</h1>
 
-<h3>It looks like you've somehow stumbled across my GitHub profile.</h3>
+<h3>It looks like you've stumbled across my GitHub profile.</h3>
 
 It's dangerous to go alone! Take this.
 
